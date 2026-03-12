@@ -35,7 +35,7 @@ Mi enfoque principal es el desarrollo de **APIs RESTful** bajo arquitecturas lim
 
 #### 🎫 [Ticketing System - API Modular](https://github.com/marchena290/tickets-backend)
 *API profesional para la gestión de incidentes técnicos.*
-- **Especialidad:** Implementación avanzada de **RBAC** (Control de Acceso Basado en Roles).
+- **Especialidad:** Implementación avanzada de **RBAC** (Control de Accesos Basado en Roles).
 - **Lógica de Negocio:** Cálculo automatizado de tiempos de respuesta basados en **SLA** por categoría de cliente.
 
 ---
