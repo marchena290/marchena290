@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Javier Marchena
-### **Backend Developer | Java & Spring Boot Specialist** 🚀
+### **Full Stack Developer | Java & Spring Boot Specialist** 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=150&section=header&text=Javier%20Marchena&fontSize=50&animation=fadeIn" width="100%" />
@@ -8,7 +8,7 @@
 ---
 
 ### 📖 Sobre Mí
-Soy un **Desarrollador Backend** apasionado por la construcción de sistemas robustos y escalables. Actualmente curso la carrera de **Ingeniería en Sistemas** y cuento con la certificación profesional de **Oracle + Alura** en el ecosistema Java.
+Soy un **Desarrollador Full Stack** apasionado por la construcción de sistemas robustos y escalables. Actualmente curso la carrera de **Ingeniería en Sistemas** y cuento con la certificación profesional de **Oracle + Alura** en el ecosistema Java.
 
 Mi enfoque principal es el desarrollo de **APIs RESTful** bajo arquitecturas limpias. Me especializo en la seguridad de aplicaciones (JWT/RBAC) y en el diseño eficiente de bases de datos, garantizando siempre la **Integridad Referencial** y la **Normalización (3FN)** para optimizar el rendimiento y la consistencia de los datos.
 
