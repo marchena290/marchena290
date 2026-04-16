@@ -1,5 +1,5 @@
 # 👋 ¡Hola! Soy Javier Marchena Gallo
-### **Back End Developer | Java & Spring Boot Specialist** 🚀
+### **Software Developer Junior | .NET (C#) & Java (Spring Boot) Specialist** 🚀
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007ACC&height=150&section=header&text=Javier%20Marchena%20Gallo&fontSize=50&animation=fadeIn" width="100%" />
@@ -8,9 +8,9 @@
 ---
 
 ### 📖 Sobre Mí
-Soy un **Desarrollador BacK End** apasionado por la construcción de sistemas robustos y escalables. Actualmente curso la carrera de **Ingeniería en Sistemas** y cuento con la certificación profesional de **Oracle + Alura** en el ecosistema Java.
+Soy un **Desarrollador de Software** Junior apasionado por la construcción de sistemas transaccionales robustos y escalables. Cuento con una sólida formación en Ingeniería en Sistemas y certificaciones profesionales en los ecosistemas .NET y Java.
 
-Mi enfoque principal es el desarrollo de **APIs RESTful** bajo arquitecturas limpias. Me especializo en la seguridad de aplicaciones (JWT/RBAC) y en el diseño eficiente de bases de datos, garantizando siempre la **Integridad Referencial** y la **Normalización (3FN)** para optimizar el rendimiento y la consistencia de los datos.
+Mi enfoque principal es el desarrollo de arquitecturas Backend bajo principios SOLID y Clean Architecture. Me especializo en la optimización de bases de datos mediante Stored Procedures y Triggers en SQL Server, garantizando siempre la integridad de los datos y el alto rendimiento del sistema. Experto en seguridad de aplicaciones (JWT/RBAC) y contenerización con Docker.
 
 ---
 
